@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "rootDir": "app",
+    "out": "build/js/app.js"
+  },
+  "files": [
+    "app/to-do-createtasks.ts",
+    "app/to-do-classinterface.ts",
+    "app/to-do-people.ts",
+    "app/to-do-listtasks.ts"
+    ]
+}
